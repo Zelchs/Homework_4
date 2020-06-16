@@ -1,1 +1,3 @@
 config/config.php
+src/templates/footer.php
+src/templates/header.php

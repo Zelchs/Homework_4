@@ -1,2 +1,2 @@
-<footer>C 2020 made by me</footer>
+<footer>C 2020 made by Zelchs</footer>
 </body></html>
