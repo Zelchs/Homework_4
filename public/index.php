@@ -1,12 +1,12 @@
 <?php
-
-require_once "../src/templates/header.php";
+include "config/config.php";
+include "src/templates/header.php";
 ?>
 <main>
-<p>You are logged !</p>
+<p>You are logged out!</p>
 <p>You are logged out!</p>
 </main>
 
 <?php
-require_once "../src/templates/footer.php";
+include "src/templates/footer.php";
 ?>
