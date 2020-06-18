@@ -42,6 +42,9 @@ footer {
 body {
     background-color:#99ff99;
 }
+.unmarked {
+    background-color: #cc99ff;
+}
 .marked {
    background-color: #4dd2ff;
 }

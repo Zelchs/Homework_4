@@ -60,7 +60,7 @@
             $html .= "</form>";
             $html .= "<form action='src/deletedata.php' method='post'>";
             $html .= "<button type='submit' name='deletedata' value='$id' class='delete-button'>";
-            $html .= "Delete exercise</button>";
+            $html .= "Delete note</button>";
             $html .= "</form>";
             $html .= "</div>";
             echo $html;
